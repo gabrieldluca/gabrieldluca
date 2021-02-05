@@ -1,4 +1,4 @@
-<img align='left' src="https://i.ibb.co/kxLFH3W/Artboard.png" width="240">
+<img align='left' src="https://i.ibb.co/kxLFH3W/Artboard.png" width="250">
 
 ```javascript
 let Dluca = { 
