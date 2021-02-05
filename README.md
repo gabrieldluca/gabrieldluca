@@ -1,6 +1,3 @@
-
----
-
 ```javascript
 let Dluca = { 
   pronouns: "he" | "him",
