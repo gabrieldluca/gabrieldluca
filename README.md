@@ -1,5 +1,22 @@
-### Hi there 👋
 
+---
+
+```javascript
+let Dluca = { 
+  pronouns: "he" | "him",
+  code: [Swift, ObjectiveC, SwiftUI],
+  tools: [Xcode, VSCode, Hyper, Fastlane, Husky, Sketch],
+  architecture: ["clean", "testable", "modular"],
+  occupation: 
+    {
+      consultant: "ThoughtWorks",
+      organizer: "CocoaHeads Recife"
+    },
+  challenge: "Currently learning with Apple's SwiftUI Tutorials"
+}
+```
+
+---
 <!--
 **gabrieldluca/gabrieldluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
