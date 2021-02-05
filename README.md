@@ -1,3 +1,5 @@
+<img align='left' src="https://i.ibb.co/kxLFH3W/Artboard.png" width="260">
+
 ```javascript
 let Dluca = { 
   pronouns: "he" | "him",
