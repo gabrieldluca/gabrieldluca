@@ -1,7 +1,7 @@
 ![Profile Header](https://u.cubeupload.com/gabrieldluca/githubheader.png)
 ## Hi! Welcome to my GitHub Page 👋
 
-Cool thing you were able to find it! I rely on GitHub mostly as a learning tool instead of a portfolio. If you're considering me for professional inquiries, please reach out in the social media provided at the end of this README.
+Cool thing you were able to find it! I rely on GitHub mostly as a learning tool instead of a portfolio. If you're considering me for professional inquiries, please reach out in the social networks provided at the end of this README.
 
 Here's a couple of cool things you can find:
 - 🦄 Scholarship Submissions (WWDC)
